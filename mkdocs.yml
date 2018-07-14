@@ -35,11 +35,15 @@ pages:
       - Magic: Magic.md
       - Market: Market.md
       - Movement: Movement.md
+      - Overland Actions: Overland_Actions.md
+      - Overland Basics: Overland_Basics.md
+      - Overland Travel: Overland_Travel.md
+      - Overland Travel, Traditional: Overland_Travel_Traditional.md
       - Player Advice: PlayerAdvice.md
       - Play Procedure: Play_Procedure.md
       - Player Rules/Character Generation: PlayerRules.md
       - Professions: Professions.md
-#     - Random Starting Items: Starting items.md
+      - Random Starting Items: Random_Starting_Items.md
       - Skills: Skills.md
       - Saving Throw, Charisma + Level: Saving_Throw_Charisma+Level.md
       - Saving Throw, Half Stat: Saving_Throw_Half_Stat

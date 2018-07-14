@@ -1,5 +1,20 @@
 # Procedure of Play
 
+## Time Definitions
+
+> 1 Haven turn = 4 weeks. 
+> 1 Standard turn = about 10 minutes.
+> 1 Combat Round = about 6 seconds. 
+
+6 Seconds = 1 Combat Round
+10 Combat Rounds = 1 Minute
+10 Minutes = 1 Local Turn
+6 Local Turns = 1 Hour
+24 Hours = 1 Day
+7 Days = 1 Week
+5 Weeks = 1 Month (35 Days)
+10 Months = 1 Year (350 days) 
+
 ## Overland Turn
 
 Overland turns are used when traveling over a distance.

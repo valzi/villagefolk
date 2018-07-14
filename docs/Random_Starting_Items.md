@@ -1,3 +1,7 @@
+# INCOMPLETE
+
+Want to help? Contact me?
+
 # Starting items
 
 A party always starts with the basics: a lantern, 3 flasks of oil (which fill one slot.)

@@ -91,23 +91,6 @@ After the third time, die.
 
 > Recover Constitution lost in this way at double the usual ATR recovery rate with rest and food.
 
----
-
-## Time
-
-> 1 Haven turn = 4 weeks. 
-> 1 Standard turn = about 10 minutes.
-> 1 Combat Round = about 6 seconds. 
-
-6 Seconds = 1 Combat Round
-10 Combat Rounds = 1 Minute
-10 Minutes = 1 Local Turn
-6 Local Turns = 1 Hour
-24 Hours = 1 Day
-7 Days = 1 Week
-5 Weeks = 1 Month (35 Days)
-10 Months = 1 Year (350 days) 
-
 
 
 ---
@@ -118,43 +101,7 @@ PCs can evaluate raw metals and they count directly as CP, SP, or GP.
 
 Thieves and other similarly - minded experts can INT check to evaluate other standard-valued items (like gems.)
 
----
-
-## Traps
-
-Traps may give an x-in-6 chance to go off if the referee wishes. 2-in-6 means they've deteriorated or are poorly designed. 5-in-6 means they are designed well and are in good condition. Lower numbers on a D6 are safe results.
-
----
-
-Traps should be described so that attentive players can examine and attempt to disarm them. 
-
-
-## Wandering Monsters
-
-### In Dungeons
+## Encounters, in Dungeons
 
 The probability of encountering an enemy in a dungeon or other similar locale is usually specific to that locale. If it is not assigned, adventurers encounter monsters when rolling a 6 on a D6.
 
----
-
-
-### In the Wilderness
-
-Encounters are checked once when the party is sleeping, once per hex moved through (or once per 6 miles), and whenever the party is loud.
-
-The chance of encounters depends on the terrain being explored. By default, use the following probabilities, with higher rolls resulting in encounters:
-City, clear, grasslands, settled lands: 1-in-6.
-Barren, desert, forest, hills, ocean, river: 2-in-6.
-Jungle, mountains, swamp: 3-in-6.
-
----
-
-# Notes
-
-## Troika card inventory
-
-Items are written on blank business cards or index cards. 3 are readied (in hand or belt.) Stack the ones you are not using. This stack is your backpack.
-
-To get an item from the backpack while in combat, roll a d20 and subtract 2 from your roll (minimum result of 1.)You can take any item at or below the result.
-
-Advantages:  Inventory tangibility, quick backpack sorting, and easy passing of items (with notes written on them.)
