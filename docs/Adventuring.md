@@ -77,28 +77,6 @@ A character can hold their breath for combat rounds equal to CON÷2.
 
 If the character is physically prepared, they may hold their breath for combat rounds equal to CON.
 
-## Light
-
-**Light Sources **last a length of time **OR** use *Light Checks* (below.)
-
-**Torch**: 20’ bright light, 40' shadows. Burns for 1 hour. 5 per one slot.
-
-**Lantern**: 30’ bright light, 60’ shadows. Burns for 3 hours per bottle of lampoil.
-
-**Candle**: 5’ bright light, 15’ shadows. Burns for 1 hour. 10 per 1 slot.
-
-**Flint and tinder to light**. 1D4 – DEX modifier rounds light.Minimum = 1 round.
-
-### Light Checks
-
-Torch: D8	Candle: D10 			Lantern: D20
-
-Each turn, roll. If the result is less than four, use a lower die. 
-
-If anything less than a four is rolled on a D4, the light source is depleted. 
-
-Use these steps: D20 -> D12 ->D10 -> D8 -> D6 -> D4 -> depleted.
-
 ## Saving Throws
 
 ### Rolling a Saving Throw
