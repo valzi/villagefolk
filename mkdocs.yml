@@ -23,6 +23,7 @@ pages:
       - Classes, Racial: ClassesRacial.md
       - Classes, Weird: ClassesWeird.md
       - Combat: Combat.md
+      - Death and Dismemberment: Death_Dismemberment.md
       - Equipment: Equipment.md
       - Extras: Extras.md
       - GM Advice: GM_advice.md
@@ -32,3 +33,5 @@ pages:
       - Player Rules/Character Generation: PlayerRules.md
       - Professions: Professions.md
 #     - Random Starting Items: Starting items.md
+      - Solo Player Character: SoloPC.md
+      - License: zGame_License.md
