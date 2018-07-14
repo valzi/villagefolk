@@ -1,6 +1,6 @@
 # Village Folk RPG
 
-Michael R. Bacon. 
+by Michael R. Bacon. 
 
 Inspired by endless other stuff, but mostly B/X and the Goblin Laws Of Gaming.
 
@@ -8,11 +8,13 @@ Feedback requested!
 
 # Incomplete sections
 
-The equipment list isn't ready to use.
+Please contact me if you can help with any of the following:
 
-Classes need updating.
-
-The advice sections are almost entirely stolen without credit from random places. I think it's great advice, but I need to replace it with my own or with something that is credited.
+* The equipment list isn't ready to use.
+* Classes need updating.
+* The Random Starting Items table is barely even started.
+* The advice sections are almost entirely stolen without credit from random places. I think it's great advice, but I need to replace it with my own or with something that is credited.
+* The Professions table is just stolen. It needs to be replaced.
 
 ## Structure of Document Sections
 
@@ -29,13 +31,13 @@ Examples and advice.
 1. A rules document that focuses on quick and easy reference, especially for experienced players.
 2. Remove rules whose benefit is not worth the hassle, especially if they're about combat. Minimize bookkeeping.
 3. Flavor/guidance will be kept to a minimum until the rules are in place.
+4. 
 
 ## To-do
 
-1. Add a conversation procedure.
-2. Create a professions table.
-3. Create a death and dismemberment table.
-4. Fork a set of rules that fits my setting. (This probably won't happen until a lot more of my content is written - maybe a long time from now.)
+1. Create a professions table.
+2. Create a death and dismemberment table.
+3. Fork a set of rules that fits my setting. (This probably won't happen until a lot more of my content is written - maybe a long time from now.)
 
 ## Notes
 
