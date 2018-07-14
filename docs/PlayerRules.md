@@ -80,6 +80,14 @@ Willpower, perception, intuition, instinct.
 
 Ability score modifiers are used to alter other numbers as explained in the character generation section. 
 
+## Hit Points
+
+> Each point *below* 0 HP for a PC = Lethal  = Death and Dismemberment Table
+
+Hit points represent the ability to not be hit. At 0 a character has been physically harmed and must roll on the death and dismemberment table.
+
+A Player Character's maximum Hit Points are derived from Constitution as shown on the Level Chart.
+
 # Inventory and Encumbrance
 
 ### Inventory Slots
@@ -108,6 +116,18 @@ Example: Joe has 14 strength and therefore 16 inventory slots. He is carrying it
 
 > **Small items** (3 scrolls , 3 bottles, 5 torches, 100 coins, 20 arrows) are bundled into 1 Slot.
 > *Very small items** (a coin, a garrote) use no slots. 
+
+### Conditions
+
+> **Fatigue, Soaked, and Cold** each use 2 slots. Check CON to avoid gaining fatigue. 
+
+**Fatigue** is gained as a result of exhausting activity. Traveling more than 12 hours adds 1 fatigue per hour.
+
+A player character may check Constitution to resist gaining fatigue. 
+
+**Soaked** is caused by clothing and backpack being wet.
+
+**Cold** is caused by exposure to very cold temperature.
 
 # Experience Points
 

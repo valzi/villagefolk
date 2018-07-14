@@ -31,7 +31,7 @@ Random [profession](https://coinsandscrolls.blogspot.com/2017/06/osr-1d100-actua
 
 
 
-
+# Weapons
 
 Check for breakage if ATK roll or DEF roll = natural 1 or natural 20.
 
@@ -62,8 +62,6 @@ Critical hits allow stunts in addition to hit or add second damage roll to attac
 **Heavy weapons** 1D10 + STR MOD DMG, two hands. Not usable in confined spaces. 2 Slots.
 
 **Improvised Weapons **= -2 ATK.
-
-
 
 | **Ranged Weapons** | **Damage** | **Cost** | **Inventory Slot** | **Town Availability** |
 | ------------------ | ---------- | -------- | ------------------ | --------------------- |

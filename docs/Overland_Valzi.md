@@ -1,6 +1,6 @@
-## Overland Travel
+# Overland Travel
 
-### Overland Travel Chart
+## Overland Travel Chart
 
 When traveling across plains a character may travel as many miles as their movement score in a day, rounded down to the nearest multiple of 6, without gaining FATIGUE. (This is because a hex is typically 6 miles wide. A party cannot partially enter a hex.)
 
@@ -18,7 +18,7 @@ When traveling across plains a character may travel as many miles as their movem
 
 The average party member has a movement of 12. If the slowest party member has a movement of 12, the party may explore 6 miles in 6 hours.
 
-### Terrain
+## Terrain
 
 > **Plains = no change**
 > **Road** = -2 hours (min of 1 hour.)
@@ -38,16 +38,32 @@ The average party member has a movement of 12. If the slowest party member has a
 | Swamp       | +3                     |
 | Mountain    | +4                     |
 
-### Other actions
+## Overland Sight
+
+Characters can usually see for three miles around them, in open terrain. 
+
+This range may sometimes be reduced (e.g. in overgrown terrain such as a forest) or increased (e.g. looking out from the top of a mountain.)
+
+## Other actions
 
 1d4 exploding turns to find the source of tracks.
-
 Roll under half Wisdom in order to Hunt, Forage, or gather Herbs. 
+
 Hunting requires to rolls of an arrow usage die and results in 1d4 rations.
-Foraging results in 1d3 rations.
+**Foraging**
 Gathering herbs finds a single herb.
 
-### Daylight
+### Foraging
+
+A party may forage when in a wilderness environment. (Doing this requires every party member's turn.) It does not take extra time or slow travel, but it may only be done once per 6 miles per day. Roll under half the Wisdom of one party member to  gain the party enough food for d6 meals (a meal is only half of a ration.)
+
+### Hunting
+
+A party may hunt when in a wilderness environment. It requires one hour and causes two encounter checks. Roll under half of a party member's Wisdom and spend 2 arrows.
+
+A character may attempt to roll under half of their wisdom in order to Hunt, Forage, or find Herbs. Hunting costs 1d4 arrows and gives 1d4 rations. Foraging gives 1d3 rations. Herbalism gives a single beneficial herb which can act as medicine.
+
+## Daylight
 
 Traveling at night is nearly impossible without a road. (You might choose to make an exception for a full moon.) 
 
@@ -57,7 +73,7 @@ Winter - 8 hours of light
 Spring/Fall - 11 hours of light
 Summer - 14 hours of light
 
-### Navigating Accurately
+## Navigating Accurately
 
 To navigate accurately (without getting lost,) check MOVE with the following changes:
 
@@ -85,7 +101,7 @@ When lost, the party randomly moves to a different hex adjacent to the one inten
 >
 > Desert, Jungle, Swamp: 1-3
 
-### Hex Travel
+## Hex Travel
 
 The standard hex size is 6x6 miles wide.
 
@@ -99,7 +115,7 @@ When moving from one 6-mile hex into another one, the total distance travelled i
 
 When moving all the way across one hex and ending in a new hex adjacent to it, the distance travelled is 9 miles.
 
-### Exploring a hex
+## Exploring a hex
 
 | **Choose one of the below:** | Obvious   | Not Obvious | Hidden           | Well-hidden |
 | ---------------------------- | --------- | ----------- | ---------------- | ----------- |

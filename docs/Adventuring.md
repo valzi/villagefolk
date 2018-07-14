@@ -1,17 +1,5 @@
 # Adventuring Rules
 
-## Conditions
-
-> **Fatigue, Soaked, and Cold** each use 2 slots. Check CON to avoid gaining fatigue. 
-
-**Fatigue** is gained as a result of exhausting activity. Traveling more than 12 hours adds 1 fatigue per hour.
-
-A player character may check Constitution to resist gaining fatigue. 
-
-**Soaked** is caused by clothing and backpack being wet.
-
-**Cold** is caused by exposure to very cold temperature.
-
 ## Currency
 
 
@@ -51,10 +39,6 @@ Each point of drunkenness expands the critical failure range by 1 until morning.
 
 Joe has a fairly standard Constitution. He drank 3 beers, so his critical failure range has expanded by 2 points to 18-20. If he rolls an 18 during a check, he'll critically fail the check.
 
-## Foraging
-
-A party may forage when in a wilderness environment. (Doing this requires every party member's turn.) It does not take extra time or slow travel, but it may only be done once per 6 miles per day. Roll under half the Wisdom of one party member to  gain the party enough food for d6 meals (a meal is only half of a ration.) 
-
 ---
 
 ## Hit Dice
@@ -87,29 +71,15 @@ A monster with 3 HD usually has 13 Strength, 13 Dexterity, 13 Intelligence, etc.
 
 Modify their ability scores as needed, when appropriate. A gigantic, rampaging hippo with 2 HD probably doesn't have an intelligence as high as 12, for example. 
 
-## Hit Points
-
-> Each point *below* 0 HP for a PC = Lethal  = Death and Dismemberment Table
-
-Hit points represent the ability to not be hit. At 0 a character has been physically harmed and must roll on the death and dismemberment table.
-
-A Player Character's maximum Hit Points are derived from Constitution as shown on the Level Chart.
-
 ## Holding Breath
 
 A character can hold their breath for combat rounds equal to CON÷2.
 
 If the character is physically prepared, they may hold their breath for combat rounds equal to CON.
 
-## Hunting
+## Light
 
-A party may hunt when in a wilderness environment. It requires one hour and causes two encounter checks. Roll under half of a party member's Wisdom and spend 2 arrows.
-
-A character may attempt to roll under half of their wisdom in order to Hunt, Forage, or find Herbs. Hunting costs 1d4 arrows and gives 1d4 rations. Foraging gives 1d3 rations. Herbalism gives a single beneficial herb which can act as medicine.
-
-## Light, Vision, Visibility
-
-**Light: Sources **last a length of time **OR** use *Light Checks* (below.)
+**Light Sources **last a length of time **OR** use *Light Checks* (below.)
 
 **Torch**: 20’ bright light, 40' shadows. Burns for 1 hour. 5 per one slot.
 
@@ -128,12 +98,6 @@ Each turn, roll. If the result is less than four, use a lower die.
 If anything less than a four is rolled on a D4, the light source is depleted. 
 
 Use these steps: D20 -> D12 ->D10 -> D8 -> D6 -> D4 -> depleted.
-
-### Overland Sight
-
-Characters can usually see for three miles around them, in open terrain. 
-
-This range may sometimes be reduced (e.g. in overgrown terrain such as a forest) or increased (e.g. looking out from the top of a mountain.)
 
 ## Saving Throws
 
