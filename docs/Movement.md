@@ -38,6 +38,10 @@ However, the referee (or a published adventure) may choose other measurements.
 
 ------
 
+## Encounters, Movement in
+
+> **Combat Round** = MOVE*10'÷3.
+
 ## Falling
 
 > **1D6 damage per 10' fallen beyond first 10'**. 
@@ -49,7 +53,6 @@ Every 10 feet fallen beyond the first 10 feet incurs 1d6 damage to the character
 
 When the calculated fall distance is greater than 10 feet, there is a 50% chance of fragile items breaking, unless they are held in hand. Roll a D6 for each stored, fragile item. On a result of 1-3, the item will break.
 
-## Movement in Encounters
+## Swimming
 
-> **Combat Round** = MOVE*10'÷3.
-
+> **Swim** = MOVE÷3’ per turn. Not possible in armor heavier than leather.

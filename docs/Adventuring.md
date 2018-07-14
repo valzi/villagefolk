@@ -1,10 +1,5 @@
 # Adventuring Rules
 
-## Currency
-
-
-Only one coin is in popular usage. It's made of copper. 100 of them use one slot. 1000 of them fit in a coin purse, which uses one slot.
-
 ## Doors
 
 > Heavy doors = 1 Exploration turn to open. Likely to shut.
@@ -77,28 +72,6 @@ A character can hold their breath for combat rounds equal to CON÷2.
 
 If the character is physically prepared, they may hold their breath for combat rounds equal to CON.
 
-## Saving Throws
-
-### Rolling a Saving Throw
-
-> **SAVE: **Check [relevant stat]-5. If no stat is relevant, use SAVE stat.
-
-> **Save** = 5 + Charisma Modifier + Level.
-
-A successful saving throw decreases or cancels a negative effect.
-
----
-
-## Tags
-
-> +1 to checks. Improved tag = +2. Gained and improved in haven turns.
-
-Tags grant +1 to related checks until they improve.
-
-A player character will permanently gain a Tag if he or she successfully practices or studies it for one haven turn. 
-
-A player character will permanently improve a Tag if he or she practices or studies it for one haven turn. An improved Tag grants +2 to related rolls.
-
 ---
 
 
@@ -117,21 +90,6 @@ Without water, save against Constitution to prevent Constitution being halved.
 After the third time, die.
 
 > Recover Constitution lost in this way at double the usual ATR recovery rate with rest and food.
-
----
-
-
-## Stealth
-
-> **STEALTH** = 5 + DEX MOD - ENC. Use STEALTH of least stealthy character.
-> Roll under STEALTH to move quietly.
-> Roll under STEALTH-Opposing WIS to hide or pickpocket. 
-
----
-
-## Swimming
-
-> **Swim** = MOVE÷3’ per turn. Not possible in armor heavier than leather.
 
 ---
 
@@ -200,15 +158,3 @@ Items are written on blank business cards or index cards. 3 are readied (in hand
 To get an item from the backpack while in combat, roll a d20 and subtract 2 from your roll (minimum result of 1.)You can take any item at or below the result.
 
 Advantages:  Inventory tangibility, quick backpack sorting, and easy passing of items (with notes written on them.)
-
-## Exploding damage die
-
-All damage die explode. (when their highest value is reached, a second damage die with the same number of sides will be rolled and added to the result.)
-
-## Alternate crits
-
-Count all 20 and higher sums as critical failures instead of just a natural 20. Count all 1 and lower as critical hits.
-
-## Curse Rules
-
-## Mutations and morphs

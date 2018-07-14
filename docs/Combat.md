@@ -83,16 +83,27 @@ A fumble when defending results in an armor **Breakage** check.
 
 ------
 
+## Criticals
+
 ### Critical Successes
 
  A roll of a natural 1 in combat is a Critical Success. This grants a free combat maneuver or an additional roll of the damage die.
 
-#### Critical attacks
+### Critical Failure
 
-> **Critical hit** = 1 = x2 DMG *or* free Combat Maneuver.
-> Critical miss = 20 = something bad.
+> Check for breakage if ATK roll or DEF roll = natural 20.
 
+> **Fragile** weapons always break.
+> **Standard** weapons = 3-in-6 chance on d6. All weapons are Standard unless specified otherwise.
+> **Masterwork** weapons= 1-in-6 chance on d6. First break = -1 to ATK. Second break = useless.
 
+> **Armor break** = -1 to DEF per break. Useless when penalty equals the bonus.
+
+### More crits
+
+Count all 20 and higher sums as critical failures instead of just a natural 20. Count all 1 and lower as critical hits.
+
+### Enemy Defense
 
 > **Enemy Defense**. If you're using enemies with a Descending Armor Class from another game, you can convert that number to enemy defense by subtracting 10.
 > A descending Armor Class (AC) of 18 is the same as a defense of 8. Exception: Lamentations of the Flame Princess increases the base AC from 10 to 12. To convert AC in Lamentations of the Flame Princess to Defense, subtract 12.
@@ -175,18 +186,6 @@ Using a blunt weapon against a skeleton grants one extra damage dice. Using a si
 
 > Fail = x2 DMG.
 > Success = 3x damage.
-
-------
-
-### Breakage
-
-> Check for breakage if ATK roll or DEF roll = natural 1 or natural 20.
-
-> **Fragile** weapons always break.
-> **Standard** weapons = 3-in-6 chance on d6. All weapons are Standard unless specified otherwise.
-> **Masterwork** weapons= 1-in-6 chance on d6. First break = -1 to ATK. Second break = useless.
-
-> **Armor break** = -1 to DEF per break. Useless when penalty equals the bonus.
 
 ------
 

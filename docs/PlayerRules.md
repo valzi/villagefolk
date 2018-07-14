@@ -88,6 +88,12 @@ Hit points represent the ability to not be hit. At 0 a character has been physic
 
 A Player Character's maximum Hit Points are derived from Constitution as shown on the Level Chart.
 
+## Stealth
+
+> **STEALTH** = 5 + DEX MOD - ENC. Use STEALTH of least stealthy character.
+> Roll under STEALTH to move quietly.
+> Roll under STEALTH-Opposing WIS to hide or pickpocket. 
+
 # Inventory and Encumbrance
 
 ### Inventory Slots

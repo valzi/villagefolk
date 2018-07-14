@@ -1,3 +1,9 @@
+# Market
+
+## Currency
+
+Only one coin is in popular usage. It's made of copper. 100 of them use one slot. 1000 of them fit in a coin purse, which uses one slot.
+
 ## Hirelings
 
 Retainers will not take dangerous risks without an equal share of the loot. They will usually refuse to do much more than carry loot and hold a torch.
