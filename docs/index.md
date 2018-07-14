@@ -6,6 +6,14 @@ Inspired by endless other stuff, but mostly B/X and the Goblin Laws Of Gaming.
 
 Feedback requested!
 
+# Incomplete sections
+
+The equipment list isn't ready to use.
+
+Classes need updating.
+
+The advice sections are almost entirely stolen without credit from random places. I think it's great advice, but I need to replace it with my own or with something that is credited.
+
 ## Structure of Document Sections
 
 > Formulas and summary notes which are useful if you've already read. They're also good for copying and pasting onto a GM screen.
@@ -24,9 +32,10 @@ Examples and advice.
 
 ## To-do
 
-1. Create a professions table.
-2. Create a death and dismemberment table.
-3. Fork a set of rules that fits my setting. (This probably won't happen until a lot more of my content is written - maybe a long time from now.)
+1. Add a conversation procedure.
+2. Create a professions table.
+3. Create a death and dismemberment table.
+4. Fork a set of rules that fits my setting. (This probably won't happen until a lot more of my content is written - maybe a long time from now.)
 
 ## Notes
 
