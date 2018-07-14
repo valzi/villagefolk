@@ -16,6 +16,7 @@ markdown_extensions:
 pages:
       - Introduction: index.md
       - Adventuring: Adventuring.md
+      - Checks: Checks.md
       - Classes, Caster: ClassesCasters.md
       - Classes, Exorcist: ClassesExorcists.md
       - Classes, Expert: ClassesExpert.md
@@ -30,6 +31,7 @@ pages:
       - Magic: Magic.md
       - Movement: Movement.md
       - Player Advice: PlayerAdvice.md
+      - Play Procedure: Play_Procedure.md
       - Player Rules/Character Generation: PlayerRules.md
       - Professions: Professions.md
 #     - Random Starting Items: Starting items.md

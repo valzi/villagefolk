@@ -1,144 +1,4 @@
-# Checks - The Core Mechanic
-
-## Check
-
-> **Stat Check**: roll a D20 equal to target value or under target value.
-
-Sometimes, the referee might ask a player character to make a check against a stat. For example, MOVE might be checked to attempt to jump over a pit or STR might be checked to attempt to push a heavy or stuck object.
-
-To check a stat, a player rolls 1D20 and, if the result is less than or equal to the stat (this is the "Target Number"), the check succeeds. If the roll is greater than the ability, the check fails.
-
-An unmodified (natural) roll of 1 is always a success and a natural 20 is always a failure, regardless of penalties and bonuses.
-
----
-
-Example: A player character checks their MOVE stat to jump over a pit. The player character has a move score of 12 but the pit is dangerously wide, so the Referee imposes a +2 penalty. The player rolls a 12. This would normally be a success, but the penalty means that the result is a 14. The player character falls into the pit.
-
-
-## Penalties and bonuses
-
-Whenever a player makes a check, bonuses or penalties may be applied to the target number, with a modifier of +3 resulting in a much easier check and a -3 resulting in a much more difficult check. Just use -3, -2, -1, +1, +2, and +3. Other numbers are for very unusual circumstances.
-
----
-
-Miranda has a character named Sammi. Sammi's target foe is not visible (perhaps a human hiding in an unlit room.) The referee assigns a -10 penalty to Sammi's ATK. This means that, even though Sammi's sheet says that her ATK is 11, in the dark, her ATK is only 1. This means the player would need to roll a 1 to succeed at hitting the enemy.
-
-However, imagine this: Miranda says "Sammi is going to wait to swing her sword until she hears something standing near her, paying attention to the direction of the sound. She will swing the sword wide, in a circle." The Referee might now change the penalty to just -2 if the foe is not taking care to be quiet, but if she misses, she'll hit someone else in her party, if they don't hurry to get out of the way.
-
-Add a Cover example. 
-
-A PC hiding behind a door might get a +3 to defensive rolls. A PC hiding behind a 4' tall rock might only get +2.
-
-### Bonus and Penalty guide
-
-| +10            | +8   | +6   | +4        | +2   | -2        | -4             | -6   | -8   | -10                 |
-| -------------- | ---- | ---- | --------- | ---- | --------- | -------------- | ---- | ---- | ------------------- |
-| Extremely easy |      |      | Very Easy | Easy | Difficult | Very difficult |      |      | Extremely Difficult |
-
----
-
-## Opposed Stat Check
-
-> **Opposed Check: ATR + [10-Opposing ATR]**
-
-An opposed check is a check that has a penalty (or bonus) based on an opposing force. The target number to roll under is the sum of the player character's relevant attribute score and 10 minus the opposing attribute.
-
----
-
-To quickly simulate a game of chess against a very wily wizard, an opposed intelligence check might look like this:
-
-Player Character intelligence: 10. 
-Wizard intelligence (as defined by the referee at the moment the check is made): 18.
-
-ATR + [10-Opposing ATR] = opposed check
-10 + [10-18] = opposed check
-10 + [-8] = 2 = opposed check
-
-In this case, the player must roll a 1 or 2 to succeed at the opposed check and win the game of chess.
-
-If the player character has a "Games" Tag or if the player character finds a way to distract the wizard, a bonus to the check would be gained.
-
-If the wizard is being pleaded with by an urchin claiming to be his son, the referee might decide to award a bonus of 2 to the check. Now the player character only needs to roll 4 or under to succeed. 
-
-
-
-# Procedure of Play
-
-## Overland Turn
-
-Overland turns are used when traveling over a distance.
-
-1. The referee does maintenance (checks for light sources and other things altered by time.)
-2. The party decides where to travel.
-3. The referee determines whether the party becomes lost and determines weather, if deemed necessary.
-4. The referee checks for wandering monsters or other encounters. 
-5. The referee describes terrain and locations as players move through, allowing players to react and describing the results. If an encounter with a possibly hostile creature or person occurs, follow the encounter Procedure.
-
-------
-
-When checking for encounters, you may use a system presented to you in the module you're using, or you may use this simple system:
-
-**Random Travel Encounters (d6)**
-
-| 1       | 2            | 3          | 4       | 5-6     |
-| ------- | ------------ | ---------- | ------- | ------- |
-| Monster | Monster Omen | Non-combat | Mundane | Nothing |
-
-You may prefer this
-for encounter procedures: [The Hazard System](http://www.necropraxis.com/2017/11/22/hazard-system-v0-3/)
-
-or
-
-http://goblinpunch.blogspot.com/2015/02/have-nicer-trip.html 
-
-- Hunting.  Slows the party down a lot and costs some ammunition, but might yield a lot food.
-- Foraging.  Slows the party down a little, but might yield modest amounts of food.
-- Befriending NPCs.  Can raise their morale.  If you talk to an NPC all day and make a successful Charisma check, roll a d12.  If the result is higher than the NPC's current morale, it improves by 1.  Requires a tiny bit of roleplaying.
-- Herbalizing.  Slows the party down a little, but might yield valuable medicines and antidotes.
-- Just chatting with each other.  Awards a tiny amount of XP, like 10xp per day traveled in dangerous wilderness.  Requires a tiny bit of roleplaying.
-- Scouting.  Slows the party down a litte, but gives them a chance to find a defensible/hidden place to spend the night.  Also gives a higher chance of finding hidden locations in the hex.
-
-## Exploration Turn
-
-Exploration turns are used in dungeons, cities, buildings, and so forth.
-
-1. The referee does maintenance (check for wandering monsters or other encounters, light sources, and other things altered by time.)
-2. Each PC describes their actions for one turn. (Each turn represents approximately ten minutes.)
-3. The referee describes the results. If an encounter with creatures or persons of unknown disposition occurs, follow the encounter Procedure.
-4. If the players decide to camp, roll
-   1. Conflict
-   2. Amity
-   3. Domestic Bliss
-   4. Snag
-   5. Prowess
-   6. Poor Health 
-
-## Haven Turn
-
-http://www.paperspencils.com/2017/06/11/the-haven-turn/
-1 month **Haven Turns** may be spent on one downtime action per player. May only be taken to celebrate a safe return from an adventure. A lot of things should probably happen in the world during this time.
-
-## Encounters
-
-See *Combat*
-
 # Adventuring Rules
-
-## Climbing
-
-> Check **MOVE** to **climb**. 
->
-> Add **1 ATR modifier per turn spent studying** the route. If a new segment is visible, do a second MOVE check.
-
-Each exploration turn spent studying the climbing route will add one Attribute modifier from the player character's sheet to their MOVE.
-
-Roll under the character's (adjusted) MOVE. 
-
-If the roll fails, the referee should roll a D10 to see what percent is climbed before the fall.
-
----
-
-A character with a MOVE of 12 and a Wisdom modifier of +2 could spend one turn to study the route. When they add their Wisdom modifier, the player will attempt to roll under 14 instead of under 12 to successfully complete the climb. 
 
 ## Conditions
 
@@ -156,14 +16,6 @@ A player character may check Constitution to resist gaining fatigue.
 
 
 Only one coin is in popular usage. It's made of copper. 100 of them use one slot. 1000 of them fit in a coin purse, which uses one slot.
-
-## Distance
-
-A hex is typically 6x6 miles. Squares on a dungeon map are typically 10x10 feet. 
-
-A square is usually 10'x10'. 
-
-However, the referee (or a published adventure) may choose other measurements.
 
 ## Doors
 
@@ -198,17 +50,6 @@ Each point of drunkenness expands the critical failure range by 1 until morning.
 ---
 
 Joe has a fairly standard Constitution. He drank 3 beers, so his critical failure range has expanded by 2 points to 18-20. If he rolls an 18 during a check, he'll critically fail the check.
-
-## Falling
-
-> **1D6 damage per 10' fallen beyond first 10'**. 
-> **Hanging** from a ledge **reduces** distance by **10**'. 
-> **Intentional** falls result in a **DEX check** to **reduce** the calculated distance by **10'**.
-> **50% chance of fragile items breaking**.
-
-Every 10 feet fallen beyond the first 10 feet incurs 1d6 damage to the character. Hanging from a ledge reduces the calculated fall distance by 10 feet. Intentionally falling causes a Dexterity check; success reduces the calculated fall distance by 10 feet.
-
-When the calculated fall distance is greater than 10 feet, there is a 50% chance of fragile items breaking, unless they are held in hand. Roll a D6 for each stored, fragile item. On a result of 1-3, the item will break.
 
 ## Foraging
 
