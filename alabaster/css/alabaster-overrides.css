@@ -1,0 +1,11 @@
+nav li.active:not(.inactive) > a {
+    border-bottom: 1px solid #000;
+    color: #000;
+}
+
+blockquote {
+  background-color: #DDD;
+      background: #DDD;
+    margin: 0 0 0 30px;
+    padding: 0;
+}

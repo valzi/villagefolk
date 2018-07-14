@@ -1,0 +1,34 @@
+# Village Folk RPG
+
+Michael R. Bacon. 
+
+Inspired by endless other stuff, but mostly B/X and the Goblin Laws Of Gaming.
+
+Feedback requested!
+
+## Structure of Document Sections
+
+> Formulas and summary notes which are useful if you've already read. They're also good for copying and pasting onto a GM screen.
+
+Full length explanation.
+
+------
+
+Examples and advice.
+
+## Project Goals
+
+1. A rules document that focuses on quick and easy reference, especially for experienced players.
+2. Remove rules whose benefit is not worth the hassle, especially if they're about combat. Minimize bookkeeping.
+3. Flavor/guidance will be kept to a minimum until the rules are in place.
+
+## To-do
+
+1. Create a professions table.
+2. Create a death and dismemberment table.
+3. Fork a set of rules that fits my setting. (This probably won't happen until a lot more of my content is written - maybe a long time from now.)
+
+## Notes
+
+Very GLOG-gy. Many of the mechanics are from http://goblinpunch.blogspot.ca/2016/05/the-glog.html by Arnold k. and https://coinsandscrolls.blogspot.ca/2018/01/osr-glog-based-homebrew-v01-rat-on.html by Skerples. 
+

@@ -1,0 +1,34 @@
+site_name: Village Folk
+# theme_dir: alabaster
+theme: readthedocs
+extra_css: [extra.css]
+
+site_description: An OSR rulebook.
+site_author: Michael Bacon
+include_sidebar: true
+
+markdown_extensions:
+    - smarty
+    - toc:
+        permalink: True
+        anchorlink: True
+
+pages:
+      - Introduction: index.md
+      - Adventuring: Adventuring.md
+      - Classes, Caster: ClassesCasters.md
+      - Classes, Exorcist: ClassesExorcists.md
+      - Classes, Expert: ClassesExpert.md
+      - Classes, Martial: ClassesMartial.md
+      - Classes, Racial: ClassesRacial.md
+      - Classes, Weird: ClassesWeird.md
+      - Combat: Combat.md
+      - Equipment: Equipment.md
+      - Extras: Extras.md
+      - GM Advice: GM_advice.md
+      - Magic: Magic.md
+      - Movement: Movement.md
+      - Player Advice: PlayerAdvice.md
+      - Player Rules: PlayerRules.md
+      - Professions: Professions.md
+#     - Random Starting Items: Starting items.md
