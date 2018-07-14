@@ -27,26 +27,28 @@ pages:
       - Conversation: Conversation.md
       - Curses: Curses.md
       - Death and Dismemberment: Death_Dismemberment.md
-      - Exploding Damage: Exploding_Damage.md
+      - Exploding Damage Die: Exploding_Damage_Die.md
       - Extras: Extras.md
-      - GM Advice: GM_advice.md
+      - GM Advice: GM_Advice.md
+      - Inventory Cards: Inventory_Cards.md
       - Light Source, Checks: Light_Source_Checks.md
       - Light Source, Traditional: Light_Source_Traditional.md
       - Magic: Magic.md
       - Market: Market.md
       - Movement: Movement.md
+      - Mutation: Mutation.md
       - Overland Actions: Overland_Actions.md
       - Overland Basics: Overland_Basics.md
       - Overland Travel: Overland_Travel.md
       - Overland Travel, Traditional: Overland_Travel_Traditional.md
       - Player Advice: PlayerAdvice.md
+      - Player Rules/Character Generation: Player_Rules_Character_Generation.md
       - Play Procedure: Play_Procedure.md
-      - Player Rules/Character Generation: PlayerRules.md
       - Professions: Professions.md
       - Random Starting Items: Random_Starting_Items.md
-      - Skills: Skills.md
       - Saving Throw, Charisma + Level: Saving_Throw_Charisma+Level.md
       - Saving Throw, Half Stat: Saving_Throw_Half_Stat
       - Saving Throw, Half Stat -- Complex: Saving_Throw_Half_Stat_Complex.md
+      - Skills: Skills.md
       - Solo Player Character: SoloPC.md
       - License: zGame_License.md
