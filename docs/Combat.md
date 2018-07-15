@@ -1,4 +1,5 @@
-# Combat Rules
+
+# Combat
 
 ## Encounter Procedure
 

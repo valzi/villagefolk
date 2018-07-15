@@ -1,3 +1,5 @@
 !INCLUDE "docs/Player_Advice.md"
+\newpage
 !INCLUDE "docs/Player_Character_Generation.md"
+\newpage
 !INCLUDE "docs/Player_Rules_Character_Generation.md"

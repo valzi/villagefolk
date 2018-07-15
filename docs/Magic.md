@@ -1,3 +1,4 @@
+
 # Magic Rules
 
 When a wizard's mind expands, it provides more room for understanding nearby spirits. When this happens, whatever spirit the wizard is nearest and capable of understanding (determined by a roll on the caster's school's table) enters their brain. A spirit trapped in a brain that understands it is a spell.

@@ -1,3 +1,6 @@
+# Experts
+
+
 **Make Something Up**
 
 Make something up. Now it's true. You can only do this once, and it must be done when you gain the template. It can't directly contradict anything that anyone knows and cannot directly benefit a player character. (It can't grant mechanical bonuses, treasure, etc.) You may only use 1d10+4 syllables.

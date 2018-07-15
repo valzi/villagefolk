@@ -1,3 +1,5 @@
+
+
 # Professions
 
 | 1    | Armorer            | G    | helmet                         | hammer                     | light,improvised    |

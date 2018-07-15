@@ -1,0 +1,1 @@
+https://github.com/jgm/pandoc/wiki/Importing-Markdown-in-InDesign

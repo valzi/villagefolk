@@ -1,3 +1,4 @@
+
 # Solo Player Character
 
 A solo player character may decide at the beginning of each session (or day) to pay 50% of their experience to gain the following benefits:

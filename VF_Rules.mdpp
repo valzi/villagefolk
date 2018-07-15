@@ -1,30 +1,63 @@
-!INCLUDE "docs/intro.md"
+% Village Folk
+% Michael Bacon
+% July 20, 2018
+
+!INCLUDE "docs/index.md"
+\newpage
 !INCLUDE "docs/Adventuring.md"
+\newpage
 !INCLUDE "docs/Checks.md"
+\newpage
 !INCLUDE "docs/Combat.md"
+\newpage
 !INCLUDE "docs/Conversation.md"
+\newpage
 !INCLUDE "docs/Curses.md"
+\newpage
 !INCLUDE "docs/Death_Dismemberment.md"
+\newpage
 !INCLUDE "docs/Exploding_Damage_Die.md"
+\newpage
 !INCLUDE "docs/Extras.md"
+\newpage
 !INCLUDE "docs/GM_advice.md"
+\newpage
 !INCLUDE "docs/Inventory_Cards.md"
+\newpage
 !INCLUDE "docs/Light_Source_Checks.md"
+\newpage
 !INCLUDE "docs/Light_Source_Traditional.md"
+\newpage
 !INCLUDE "docs/Magic.md"
+\newpage
 !INCLUDE "docs/Market.md"
+\newpage
 !INCLUDE "docs/Movement.md"
+\newpage
 !INCLUDE "docs/Mutation.md"
+\newpage
 !INCLUDE "docs/Overland_Actions.md"
+\newpage
 !INCLUDE "docs/Overland_Basics.md"
+\newpage
 !INCLUDE "docs/Overland_Travel.md"
+\newpage
 !INCLUDE "docs/Overland_Travel_Traditional.md"
+\newpage
 !INCLUDE "docs/Play_Procedure.md"
+\newpage
 !INCLUDE "docs/Professions.md"
+\newpage
 !INCLUDE "docs/Random_Starting_Items.md"
+\newpage
 !INCLUDE "docs/Saving_Throw_Charisma+Level.md"
+\newpage
 !INCLUDE "docs/Saving_Throw_Half_Stat.md"
+\newpage
 !INCLUDE "docs/Saving_Throw_Half_Stat_Improving.md"
+\newpage
 !INCLUDE "docs/Skills.md"
+\newpage
 !INCLUDE "docs/SoloPC.md"
+\newpage
 !INCLUDE "docs/zGame_License.md"

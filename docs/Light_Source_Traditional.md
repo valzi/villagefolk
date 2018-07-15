@@ -1,3 +1,4 @@
+
 ## Light Sources
 
 **Light Sources **last a length of time **OR** use *Light Checks* (below.)

@@ -1,5 +1,3 @@
-!toc
-
 # Village Folk RPG
 
 by Michael R. Bacon. 

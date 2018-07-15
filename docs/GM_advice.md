@@ -1,3 +1,6 @@
+
+# GM Advice
+
 Impact: http://goblinpunch.blogspot.com/2017/10/impact.html
 
 The Referee has environments and situations, not a pre-planned “story” of any kind

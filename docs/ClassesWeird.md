@@ -1,3 +1,6 @@
+
+# Weird Classes
+
 ## THE POSSESSING WEAPON
 
 Empowered Weapon, Chariot

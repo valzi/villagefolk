@@ -1,16 +1,18 @@
-## Death and Dismemberment (Goblin Punch Version 26)
 
-When you take damage in excess of your HP, you roll on the Death Table. Roll d20 + excess damage and look up the result on the table.
+# Death and Dismemberment 
+(Goblin Punch Version 26)
 
- Natural 1 = Regain 1d6 HP. Gain a cool scar.
+When have 0 HP, roll d20 + excess damage and look up the result on the table.
 
- 5 or less = Prone and Disarmed.
+Natural 1 = Regain 1d6 HP. Gain a cool scar.
 
- 6-15 = Knocked Out. Beaten for 1 day.
+5 or less = Prone and Disarmed.
 
- 16-25 = Dying. Beaten for 1 day. Gain an ugly scar.
+6-15 = Knocked Out. Beaten for 1 day.
 
- 26+ = Dead 
+16-25 = Dying. Beaten for 1 day. Gain an ugly scar.
+
+26+ = Dead 
 
 **Magical Healing**
 
@@ -18,7 +20,7 @@ Magical Healing always restores your HP from the regular floor of 0 HP, eliminat
 
 ### Scars
 
- No effect beyond the cosmetic. Write them down on the back of your character sheet.
+No effect beyond the cosmetic. Write them down on the back of your character sheet.
 
 ### Beaten
 

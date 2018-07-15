@@ -1,3 +1,5 @@
+# Racial Classes
+
 For context, see how classes and leveling work in [this earlier post](Classes and Leveling).
 
 # Class: Dwarf

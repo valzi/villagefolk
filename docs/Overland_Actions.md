@@ -1,4 +1,4 @@
-## Overland actions
+# Overland actions
 
 1d4 exploding turns to find the source of tracks.
 Roll under half Wisdom in order to Hunt, Forage, or gather Herbs. 

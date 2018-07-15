@@ -1,3 +1,5 @@
+
+
 # Player Character Generation Procedure
 
 1. Roll **Attribute** scores. 3D6 six times, in order for variety. 4D4 six times, in order for competence.

@@ -1,4 +1,6 @@
-!toc
+% Village Folk
+% Michael Bacon
+% July 20, 2018
 
 # Village Folk RPG
 
@@ -2020,7 +2022,9 @@ http://www.paperspencils.com/2017/06/11/the-haven-turn/
 
 ## Encounters
 
-See *Combat*# Professions
+See *Combat*
+
+# Professions
 
 | 1    | Armorer            | G    | helmet                         | hammer                     | light,improvised    |
 | ---- | ------------------ | ---- | ------------------------------ | -------------------------- | ------------------- |

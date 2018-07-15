@@ -1,3 +1,4 @@
+
 # Conversation
 
 At the start of a conversation encounter, every PC must make a Charisma check. The lowest successful roll goes first.
