@@ -4,9 +4,9 @@
 
 !INCLUDE "docs/index.md"
 \newpage
-!INCLUDE "docs/Adventuring.md"
-\newpage
 !INCLUDE "docs/Checks.md"
+\newpage
+!INCLUDE "docs/Adventuring.md"
 \newpage
 !INCLUDE "docs/Combat.md"
 \newpage
@@ -16,11 +16,11 @@
 \newpage
 !INCLUDE "docs/Death_Dismemberment.md"
 \newpage
+!INCLUDE "docs/Disease.md"
+\newpage
 !INCLUDE "docs/Exploding_Damage_Die.md"
 \newpage
 !INCLUDE "docs/Extras.md"
-\newpage
-!INCLUDE "docs/GM_advice.md"
 \newpage
 !INCLUDE "docs/Inventory_Cards.md"
 \newpage
@@ -39,6 +39,10 @@
 !INCLUDE "docs/Overland_Actions.md"
 \newpage
 !INCLUDE "docs/Overland_Basics.md"
+\newpage
+!INCLUDE "docs/Overland_Encounters_by_Terrain.md"
+\newpage
+!INCLUDE "docs/Overland_Encounters_Simple.md"
 \newpage
 !INCLUDE "docs/Overland_Travel.md"
 \newpage

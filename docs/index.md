@@ -1,6 +1,4 @@
-# Village Folk RPG
 
-by Michael R. Bacon. 
 
 Inspired by endless other stuff, but mostly B/X and the Goblin Laws Of Gaming.
 
