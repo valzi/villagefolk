@@ -1,9 +1,9 @@
-site_name: Village Folk
+site_name: Modular GLOG
 # theme_dir: alabaster
 theme: readthedocs
 extra_css: [extra.css]
 
-site_description: An OSR rulebook.
+site_description: A Modular OSR Rulebook. Take what you want.
 site_author: Michael Bacon
 include_sidebar: true
 
@@ -39,9 +39,9 @@ pages:
       - Mutation: Mutation.md
       - Overland Actions: Overland_Actions.md
       - Overland Basics: Overland_Basics.md
-      - Overland Travel: Overland_Travel.md
       - Overland Encounters, by Terrain: Overland_Encounters_by_Terrain.md
       - Overland Encounters, Simple: Overland_Encounters_Simple.md
+      - Overland Travel: Overland_Travel.md
       - Overland Travel, Traditional: Overland_Travel_Traditional.md
       - Player Advice: Player_Advice.md
       - Player Rules/Character Generation: Player_Rules_Character_Generation.md

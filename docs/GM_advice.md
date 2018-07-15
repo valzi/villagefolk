@@ -133,3 +133,30 @@ Roll sparingly. Because Stats are randomly generated and assigned,it is possible
 
 
 From a player's point of view, a roll is a risk. Testing Strength toleap across a chasm is risky. Putting a ladder across a chasm and carefullyclimbing across does not require a roll. Fighting an orc in melee is a risk.Avoiding the fight entirely might not require a roll.
+
+
+
+# Campaign Questions
+
+http://jrients.blogspot.ca/2011/04/twenty-quick-questions-for-your.html
+
+1. What is the deal with my cleric's religion? No clerics. 
+2. Where can we go to buy standard equipment? Village city
+3. Where can we go to get platemail custom fitted for this monster I just befriended?
+4. Who is the mightiest wizard in the land?
+5. Who is the greatest warrior in the land?
+6. Who is the richest person in the land?
+7. Where can we go to get some magical healing?
+8. Where can we go to get cures for the following conditions: poison, disease, curse, level drain, lycanthropy, polymorph, alignment change, death, undeath?
+9. Is there a magic guild my MU belongs to or that I can join in order to get more spells?
+10. Where can I find an alchemist, sage or other expert NPC?
+11. Where can I hire mercenaries?
+12. Is there any place on the map where swords are illegal, magic is outlawed or any other notable hassles from Johnny Law?
+13. Which way to the nearest tavern?
+14. What monsters are terrorizing the countryside sufficiently that if I kill them I will become famous?
+15. Are there any wars brewing I could go fight?
+16. How about gladiatorial arenas complete with hard-won glory and fabulous cash prizes?
+17. Are there any secret societies with sinister agendas I could join and/or fight?
+18. What is there to eat around here?
+19. Any legendary lost treasures I could be looking for?
+20. Where is the nearest dragon or other monster with Type H treasure?
