@@ -4,7 +4,7 @@ theme: readthedocs
 extra_css: [extra.css]
 
 site_description: A Modular OSR Rulebook. Take what you want.
-site_author: Michael Bacon
+site_author: Michael Bacon and Everyone Else
 include_sidebar: true
 
 markdown_extensions:
@@ -17,12 +17,6 @@ pages:
       - Introduction: index.md
       - Adventuring: Adventuring.md
       - Checks: Checks.md
-      - Classes, Caster: ClassesCasters.md
-      - Classes, Exorcist: ClassesExorcists.md
-      - Classes, Expert: ClassesExpert.md
-      - Classes, Martial: ClassesMartial.md
-      - Classes, Racial: ClassesRacial.md
-      - Classes, Weird: ClassesWeird.md
       - Combat: Combat.md
       - Conversation: Conversation.md
       - Curses: Curses.md
