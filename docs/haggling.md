@@ -9,4 +9,4 @@
 
 # Credit
 
-[David Schirduan](https://plus.google.com/116124411286229550721) [G+ Post](G+ Post).
+[David Schirduan](https://plus.google.com/116124411286229550721) [G+ Post](https://plus.google.com/+DavidSchirduan/posts/APqxiQPPsiR).
