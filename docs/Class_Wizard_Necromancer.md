@@ -20,7 +20,7 @@ The drawback to this school could become an issue if the necromancer is searched
 
 Necromancer cantrips are very powerful but, in all 3 instances, potentially dangerous. Some spirits might stick around if they are casually called back to answer questions. Inviting spirits into a corpse is asking for trouble. And fueling your spells with your own HP makes lichdom very tempting.
 
-### Spell List
+## Spell List
 
 In this setting, spells are creatures. They're spirits that live in a wizard's brain and burst out, doing their duty and then taking a brief vacation. While most wizard schools breed spells specifically, necromancers might keep a cadre of ghosts. Some necromancers cast their own ancestors as spells; some trap escaped ghosts and wield them in a form of holy penance. 
 Many spells on this list require a bit of GM improvisation. The spells are much less straightforward than a traditional spell list. They are also dangerous to both the caster and their companion. Raise ye not up what ye cannot put down.****
@@ -149,7 +149,7 @@ There's no bonus for using more [dice] to cast this spell, but it can straight-u
 
 This is one of the most powerful spells a wizard can cast because it allows the caster to directly edit reality and set future events. The necromancer could doom a nation with a single spell. Of course, there's no protection from the consequences of a wrathful leader, especially one who has nothing to lose.
 
-**Mishaps **
+## Mishaps
 
 1. MD only return to your pool on a 1-2 for 24 hours 
 2. Take 1d6 damage 
@@ -157,16 +157,20 @@ This is one of the most powerful spells a wizard can cast because it allows the 
 4. Save vs Fear against the target of your spell. 1d6 rounds. Target is fully healed if undead. 
 5. 1d6 nearby corpses raise as zombies and attack you for 1d6 rounds. 
 6. You die. Save vs Intelligence every hour to find your way back to your body.
-   **Doom of the Necromancer **
-7. You die and spend the next 1d6 days wandering Creation as a disembodied, feeble spirit. Your body will rot after 2 days unless it is preserved in some way: pickling, embalming, freezing, or desiccation. If you inhabit a rotting body, you become undead. 
-8. You become undead, permanently. If you were already undead, you instead lose 6 HP permanently.
-9. By direct decree of the Authority, all corpses in 20 miles rise as zombies and skeletons and attempt to kill you. If you have been particularly notorious, they will be accompanied by 2 [Bell Exorcists ](https://coinsandscrolls.blogspot.ca/2017/09/osr-class-bell-exorcists.html)and a [demon](https://coinsandscrolls.blogspot.ca/2017/10/osr-only-good-demon-is-good-demon.html.) Average: 3d20 skeletons, with 1d6 lieutenants, monsters, and commanders as appropriate. Anyone they kill joins them. They will pursue you to the ends of the earth. 
+
+## Doom of the Necromancer
+1. You die and spend the next 1d6 days wandering Creation as a disembodied, feeble spirit. Your body will rot after 2 days unless it is preserved in some way: pickling, embalming, freezing, or desiccation. If you inhabit a rotting body, you become undead. 
+2. You become undead, permanently. If you were already undead, you instead lose 6 HP permanently.
+3. By direct decree of the Authority, all corpses in 20 miles rise as zombies and skeletons and attempt to kill you. If you have been particularly notorious, they will be accompanied by 2 [Bell Exorcists ](https://coinsandscrolls.blogspot.ca/2017/09/osr-class-bell-exorcists.html)and a [demon](https://coinsandscrolls.blogspot.ca/2017/10/osr-only-good-demon-is-good-demon.html.) Average: 3d20 skeletons, with 1d6 lieutenants, monsters, and commanders as appropriate. Anyone they kill joins them. They will pursue you to the ends of the earth. 
    This doom can be avoided by eating the heart of an immortal creature, or journeying into hell and make a bargain to serve the Authority, or becoming a Lich. 
 
-**Becoming a Lich**
+## Becoming a Lich
+
 You need to breed and research 8 specific spells. The spells don't do anything alone, but they modify your soul to withstand the terrors of undeath with your mind intact. You are essentially breeding and then grafting spells onto your soul.
+
 Since no active liches will teach you the spells they used, and records of spell development are fragmentary at best, each lich must forge their own path. Some succeed; many fail, and fade away into half-mad shadows or disappear screaming into Hell. Other liches become trapped in living worlds of madness and memory, unable to accept their new form or the the changing times. History is full of Immortal Tyrants; they never quite manage to rule the empires they desire. 
-**Ritual Ingredient List**
+
+## Ritual Ingredient List
 
 1. Salt
 2. Ash

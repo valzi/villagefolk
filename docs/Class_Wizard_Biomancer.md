@@ -23,18 +23,19 @@
 8. Monsterize
 9. Regeneration
 10. Blood Jelly
+### Emblem Spells
 
-    **Emblem Spells**
 11. Wave of Mutilation
 12. Mutate
 
 ## Biomancer Spells
 
 ### 1. Acid Arrow
-   **R**: 50' **T**: creature **D**: 0 
+
+**R**: 50' **T**: creature **D**: 0 
      Target takes [sum] damage, and [sum-4] damage over the next 2 turns unless washed.
 ### 2. Alter Self 
-   **R**: 0 **T**: self **D**: [dice]x10 minutes 
+**R**: 0 **T**: self **D**: [dice]x10 minutes 
      Alter your form to resemble that of another creature of your type (usually humanoid.) You do not gain any special abilities from this transformation. 
 ### 3. Animate Potion
 
@@ -50,7 +51,7 @@ You pierce a creature with a sharp object and draw all of the venom out, which t
 
 ### 5. Shrivel
 
-R. 50' **T**: [dice] creatures **D**: 1d6 rounds / permanent
+**R**. 50' **T**: [dice] creatures **D**: 1d6 rounds / permanent
 
 Save negates. Target loses half of its current HP and loses 6 Strength (affecting the damage it deals.) When the spell ends, the lost HP and Strength returns. If you cast this spell with 3 or more [dice] against a single target, the lost HP does not return, and the Strength damage is permanent. The apparent age of the target increases considerably for the spell's duration.
 
@@ -100,7 +101,7 @@ The blood jelly will react the same way you do to any potions or items fed to it
 The more you feed a blood jelly, the larger it grows. They lose 10% of their weight each day, and gain 10% of whatever they eat in weight, and it takes an hour to eat something as big as they are. They have 1HD per doubling past 100 pounds and their default attack is sucking 1d4 points of blood per HD they have. Given 1000 pounds of meat, a fist-sized jelly takes about a day and a night to reach 100 pounds and 1HD. The more magical and unusual things you feed to it, the stranger it will become. 
 
 ### 11. Wave of Mutilation
-      **R**: 30' **T**: objects **D**: 0
+**R**: 30' **T**: objects **D**: 0
 
 Everything in a 30' cone takes [sum] slashing damage. This spell leaves dozens of deep cuts. It shreds clothing, paper, and other fragile items.
 
@@ -123,3 +124,7 @@ Save negates. Save once per mutation. Target gains [dice] random mutations. If t
 8. Save at the start of each day or gain a mutation. Save at the end of each day or that mutation becomes permanent. 
 9. You become a [Chaotic Psychoplasm](http://goblinpunch.blogspot.ca/2015/01/chaos-flesh-metachaotic-psychoplasm.html.) 
    This doom can be avoided by eating the hearts of 100 species, or by falling in love with the same doppleganger three times, or by tattooing rare fixative runes all over your body. 
+
+# Credit
+
+By Skerples. https://coinsandscrolls.blogspot.com/2018/01/osr-class-biomancer.html
