@@ -20,6 +20,8 @@
 \newpage
 !INCLUDE "docs/Exploding_Damage_Die.md"
 \newpage
+!INCLUDE "docs/haggling.md"
+\newpage
 !INCLUDE "docs/Inventory_Cards.md"
 \newpage
 !INCLUDE "docs/Light_Source_Checks.md"
