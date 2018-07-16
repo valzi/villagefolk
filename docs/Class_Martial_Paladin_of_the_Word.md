@@ -1,3 +1,4 @@
+
 # Paladin of the Word
 
 [Adapted from Goblin Punch](http://goblinpunch.blogspot.ca/2016/06/god-throat-paladins.html) (as usual.)

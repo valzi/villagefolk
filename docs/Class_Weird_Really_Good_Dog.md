@@ -1,4 +1,5 @@
-## Really Good Dog
+
+# Really Good Dog
 
 You gain +1 HP and +1 Initiative for every Really Good Dog template you possess.
 Starting Equipment: collar, f leas

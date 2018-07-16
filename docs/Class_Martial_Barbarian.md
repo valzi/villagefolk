@@ -1,4 +1,5 @@
-## Barbarian
+
+# Barbarian
 
 Starting Equipment: heavy weapon, leather armour
 

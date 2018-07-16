@@ -1,4 +1,5 @@
-## Thief
+
+# Thief
 
 Starting Equipment: leather armor, lockpicks, dagger
 

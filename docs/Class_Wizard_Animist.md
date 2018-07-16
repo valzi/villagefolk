@@ -1,3 +1,4 @@
+
 # Animist Wizard
 
 Also known as witches. These are the *bad *wizards, the ones who live in shacks on the edge of town or castles on the edge of reality. They are the cursed ones, robed in black, who you seek when all other hopes fail. When the Church turns its back on you, when you scream curses into the night, when your very soul burns, then you are in need of an Animist Wizard... or ready to become one.

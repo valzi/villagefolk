@@ -1,4 +1,5 @@
-## Class: Fighter
+
+# Class: Fighter
 
 Starting Equipment: leather armor, sword, bow, 20 arrows
 

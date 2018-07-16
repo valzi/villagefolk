@@ -1,4 +1,5 @@
-## Spider Wizards
+
+# Spider Wizards
 
 Someone pointed out that putting one or two random words in front of "wizard" generates a class idea. Here's a "benefit spider wizard". If you thought my recent [GLOG](http://goblinpunch.blogspot.ca/2016/05/the-glog.html) [wizards ](https://coinsandscrolls.blogspot.ca/2017/07/osr-class-wizards.html)were too sensible then this is the class for you.
 If you don't like spiders, *this is not the class for you.*

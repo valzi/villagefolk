@@ -1,4 +1,5 @@
-## Drowned Wizard
+
+# Drowned Wizard
 
 In your [father's time, or perhaps in his father's time](http://www.strangehistory.net/2016/07/27/perhaps-fathers-time/), the city of Anostos was swallowed by the sea. For all their power, wealth, and learning the mage-citizens of Anostos could not avoid their fate, and so drowned along with their libraries and towers. 
 

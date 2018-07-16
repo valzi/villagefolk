@@ -1,5 +1,4 @@
 
-
 # Scoundrel
 
 Starting Equipment: leather armor, lockpicks, dagger

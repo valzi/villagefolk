@@ -1,4 +1,5 @@
-## Class: Engineer
+
+# Engineer
 
 Engineers are crafters of all things non-magical. Some are smiths, some carpenters, some architects, some leatherworkers. They’re always on the watch for useful things that don’t necessarily *seem* useful, and for things to deconstruct for their wonderful bits.
 

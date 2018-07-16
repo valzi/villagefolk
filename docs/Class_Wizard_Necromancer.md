@@ -1,4 +1,5 @@
-## Necromancer
+
+# Necromancer
 
 Vaguely based on Arnold K's [Necromancer](http://goblinpunch.blogspot.ca/2016/09/the-glog-wizards.html), but heavily adapted.
 

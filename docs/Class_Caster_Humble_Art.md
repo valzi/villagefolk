@@ -1,6 +1,5 @@
 
-
-## Humble Art
+# Humble Art
 
 You have spell dice equal to your WIS modifier, and these dice can only be used for casting spells of the Art. If you have at least 1 spell die, you know WIS - 10 spells. Learning new spells requires the tutelage of another individual. Spells of the Art cannot be written down or copied in spellbooks or scrolls.
 

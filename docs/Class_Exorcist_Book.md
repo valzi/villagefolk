@@ -1,4 +1,5 @@
-## [OSR: Class: Book Exorcist](https://coinsandscrolls.blogspot.com/2017/09/osr-class-book-exorcist.html)
+
+# [Book Exorcist](https://coinsandscrolls.blogspot.com/2017/09/osr-class-book-exorcist.html)
 
 Starting Equipment: holy symbol
 

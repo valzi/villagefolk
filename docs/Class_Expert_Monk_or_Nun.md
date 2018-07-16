@@ -1,4 +1,5 @@
-## Class: Monk or Nun
+
+# Monk or Nun
 
 Starting Equipment: robes, holy book
 

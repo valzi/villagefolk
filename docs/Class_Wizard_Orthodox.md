@@ -1,4 +1,5 @@
-## Orthodox Wizard
+
+# Orthodox Wizard
 
 **Perk: **You start with red robes. 
 

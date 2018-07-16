@@ -1,3 +1,4 @@
+
 # Biomancer
 
 **Perk: **When you drink a potion, you have a 50% chance to recycle it via whatever orifice you prefer. You have 10 minutes to excrete the potion. You start with two black thumb rings (the secret mark of your profession) and a random potion. 

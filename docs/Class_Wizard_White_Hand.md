@@ -1,4 +1,5 @@
-## White Hand Wizards
+
+# White Hand Wizards
 
 The White Hand [wizards ](https://coinsandscrolls.blogspot.ca/2017/07/osr-class-wizards.html)are a chartered order imported from Foreign Parts. Their order is not very numerous, but their feats are widely seen as legendary. They are seen as the kindest of all wizard schools, mostly due to propaganda efforts and the occasional feat in battle. They have a strong but blessedly academic rivalry with the Orthdox Wizards. The ant-lings famously produce many White Hand wizards with tattooed white circles on their foreheads.
 

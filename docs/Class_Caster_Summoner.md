@@ -1,6 +1,5 @@
 
-
-## Class: Summoner
+# Summoner
 
  ---------------------------------------- |
 | Lost Crystal, [Jakub Rebelka](https://www.artstation.com/artist/shz) |

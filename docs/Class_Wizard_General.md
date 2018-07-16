@@ -1,3 +1,4 @@
+
 # Wizards
 
 Starting Equipment: spellbook, ink, quill. Some schools may give additional items.

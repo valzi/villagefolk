@@ -1,4 +1,5 @@
-## Garden Wizard
+
+# Garden Wizard
 
 Everyone's favorite kind of [wizard](https://coinsandscrolls.blogspot.ca/2017/07/osr-class-wizards.html.) If you live in a feudal society where crop failure can result in total existence failure, having someone around who can talk to plants, move trees, and get crops to grow is incredibly valuable. Nobles sponsor them; up-and-coming merchants and landowners want to marry them. Peasants leave them gifts and come to them with all sorts of problems. Alone, among wizards, they are beloved.
 Except by [druids](http://goblinpunch.blogspot.ca/2014/09/7-myths-everyone-believes-about-druids.html.) The garden is the antithesis of the forest. Gardens are shrines to domesticated plants. A big wheat field is impressive, but a garden is a tiny segment of the wilderness made perfect and smooth. Dogs are tamed wolves. Gardens are tamed forests. We tell stories about how real life ought to be, and we build gardens to make nature the way it ought to be.

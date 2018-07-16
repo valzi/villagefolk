@@ -1,4 +1,5 @@
-## Elementalist Wizard
+
+# Elementalist Wizard
 
 Elementalist Wizards speak to and rely on elemental spirits. They are a wild bunch, disreputable and windblown. In rural areas, they are beloved as rain-bringers and flood-calmers, but they are also run out of town or hung following forest fires and earthquakes. 
 

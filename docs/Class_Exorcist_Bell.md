@@ -1,4 +1,5 @@
-## [OSR: Class: Bell Exorcists](https://coinsandscrolls.blogspot.com/2017/09/osr-class-bell-exorcists.html)
+
+# [Bell Exorcists](https://coinsandscrolls.blogspot.com/2017/09/osr-class-bell-exorcists.html)
 
 **Starting Equipment: **The Seven Bells.
 
