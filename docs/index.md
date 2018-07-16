@@ -1,4 +1,4 @@
-# Modular GLOG
+
 
 # Contribute!
 
@@ -20,11 +20,11 @@ Full length explanation.
 
 Examples and advice.
 
-## Project Goals
+# Project Goals
 
 1. A rules document that focuses on quick and easy reference, especially for experienced players.
 
-## To-do
+# To-do
 
 * Create a new professions table.
 * Create a death and dismemberment table.
@@ -34,7 +34,7 @@ Examples and advice.
 * The advice sections are almost entirely stolen without credit from random places. I think it's great advice, but I need to replace it with my own or with something that is credited.
 * The Professions table is just stolen. It needs to be replaced.
 
-## GLOG versions
+# GLOG versions
 
 [Original GLOG](http://goblinpunch.blogspot.ca/2016/05/the-glog.html) by Arnold K.
 [Rat-on-a-Stick](https://coinsandscrolls.blogspot.ca/2018/01/osr-glog-based-homebrew-v01-rat-on.html) (GLOG hack) by Skerples.
