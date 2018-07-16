@@ -35,7 +35,7 @@ pandoc -V geometry:margin=0.5in --variable papersize=a5paper -s C:\Users\valzi\D
 
 pandoc --css C:\Users\valzi\Dropbox\GitHub\villagefolk\mystyles.css -V geometry:margin=0.5in --variable papersize=a5paper -s C:\Users\valzi\Dropbox\GitHub\VillageFolkOutput\MD\VF_Rules.md -o C:\Users\valzi\Dropbox\GitHub\VillageFolkOutput\VF_Rules.pdf
 pandoc -V geometry:margin=0.5in --variable papersize=a5paper -s C:\Users\valzi\Dropbox\GitHub\VillageFolkOutput\MD\VF_Player.md -o C:\Users\valzi\Dropbox\GitHub\VillageFolkOutput\VF_Player.pdf
-pandoc -V geometry:margin=0.5in --variable papersize=a5paper -s C:\Users\valzi\Dropbox\GitHub\VillageFolkOutput\MD\VF_VF_Casters.md -o C:\Users\valzi\Dropbox\GitHub\VillageFolkOutput\VF_Casters.pdf
+pandoc -V geometry:margin=0.5in --variable papersize=a5paper -s C:\Users\valzi\Dropbox\GitHub\VillageFolkOutput\MD\VF_Casters.md -o C:\Users\valzi\Dropbox\GitHub\VillageFolkOutput\VF_Casters.pdf
 pandoc -V geometry:margin=0.5in --variable papersize=a5paper -s C:\Users\valzi\Dropbox\GitHub\VillageFolkOutput\MD\VF_Exorcist.md -o C:\Users\valzi\Dropbox\GitHub\VillageFolkOutput\VF_Exorcist.pdf
 pandoc -V geometry:margin=0.5in --variable papersize=a5paper -s C:\Users\valzi\Dropbox\GitHub\VillageFolkOutput\MD\VF_Expert.md -o C:\Users\valzi\Dropbox\GitHub\VillageFolkOutput\VF_Expert.pdf
 pandoc -V geometry:margin=0.5in --variable papersize=a5paper -s C:\Users\valzi\Dropbox\GitHub\VillageFolkOutput\MD\VF_Martial.md -o C:\Users\valzi\Dropbox\GitHub\VillageFolkOutput\VF_Martial.pdf
