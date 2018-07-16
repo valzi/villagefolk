@@ -6,7 +6,7 @@ Please send me a document (preferably a text file written in Markdown) with any 
 
 I'd also love help with anything on the To-do list, below.
 
-For more information, see this [blog post](https://buildingsarepeople.blogspot.com/2018/07/modular-osr-documents-starting-with-glog.html ).
+For more information, see this [blog post](https://buildingsarepeople.blogspot.com/2018/07/modular-osr-documents-starting-with-glog.html). We're also discussing the project in this [G+ thread](https://plus.google.com/+MichaelBacon/posts/hkBfGBGYoBC).
 
 ## Style Guide for Rules
 
