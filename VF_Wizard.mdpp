@@ -1,0 +1,23 @@
+!INCLUDE "docs/Class_Wizard_General.md"
+\newpage
+!INCLUDE "docs/Class_Wizard_Animist.md"
+\newpage
+!INCLUDE "docs/Class_Wizard_Biomancer.md"
+\newpage
+!INCLUDE "docs/Class_Wizard_Door.md"
+\newpage
+!INCLUDE "docs/Class_Wizard_Drowned.md"
+\newpage
+!INCLUDE "docs/Class_Wizard_Elementalist.md"
+\newpage
+!INCLUDE "docs/Class_Wizard_Elf.md"
+\newpage
+!INCLUDE "docs/Class_Wizard_Garden.md"
+\newpage
+!INCLUDE "docs/Class_Wizard_Necromancer.md"
+\newpage
+!INCLUDE "docs/Class_Wizard_Orthodox.md"
+\newpage
+!INCLUDE "docs/Class_Wizard_Spider.md"
+\newpage
+!INCLUDE "docs/Class_Wizard_White_Hand.md"

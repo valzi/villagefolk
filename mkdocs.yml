@@ -17,6 +17,38 @@ pages:
       - Introduction: index.md
       - Adventuring: Adventuring.md
       - Checks: Checks.md
+      - Class Caster Blue: Class_Caster_Blue.md
+      - Class Caster Bug Collector: Class_Caster_Bug_Collector.md
+      - Class Caster Humble Art: Class_Caster_Humble_Art.md
+      - Class Caster Summoner: Class_Caster_Summoner.md
+      - Class Exorcist General: Class_Exorcist_General.md 
+      - Class Exorcist Bell: Class_Exorcist_Bell.md 
+      - Class Exorcist Book: Class_Exorcist_Book.md 
+      - Class Exorcist Sword: Class_Exorcist_Sword.md
+      - Class Expert Engineer: Class_Expert_Engineer.md
+      - Class Expert Goliard: Class_Expert_Goliard.md
+      - Class Expert Monk or Nun: Class_Expert_Monk_or_Nun.md
+      - Class Expert Scoundrel: Class_Expert_Scoundrel.md 
+      - Class Expert Thief: Class_Expert_Thief.md
+      - Class Expert Professions: Class_Expert_Professions.md
+      - Class Martial Barbarian: Class_Martial_Barbarian.md
+      - Class Martial Fighter: Class_Martial_Fighter.md
+      - Class Martial Paladin of the Word: Class_Martial_Paladin_of_the_Word.md
+      - Class Racial Dwarf: Class_Racial_Dwarf.md
+      - Class Weird Possessing Weapon: Class_Weird_Possessing_Weapon.md
+      - Class Weird Really Good Dog: Class_Weird_Really_Good_Dog.md
+      - Class Wizard General: Class_Wizard_General.md
+      - Class Wizard Animist: Class_Wizard_Animist.md
+      - Class Wizard Biomancer: Class_Wizard_Biomancer.md 
+      - Class Wizard Door: Class_Wizard_Door.md
+      - Class Wizard Drowned: Class_Wizard_Drowned.md
+      - Class Wizard Elementalist: Class_Wizard_Elementalist.md 
+      - Class Wizard Elf: Class_Wizard_Elf.md 
+      - Class Wizard Garden: Class_Wizard_Garden.md 
+      - Class Wizard Necromancer: Class_Wizard_Necromancer.md
+      - Class Wizard Orthodox: Class_Wizard_Orthodox.md
+      - Class Wizard Spider: Class_Wizard_Spider.md 
+      - Class Wizard White Hand: Class_Wizard_White_Hand.md
       - Combat: Combat.md
       - Conversation: Conversation.md
       - Curses: Curses.md
