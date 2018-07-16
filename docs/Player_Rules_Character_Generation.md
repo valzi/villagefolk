@@ -12,7 +12,7 @@
 
 3. Choose a **Class**. *Gain the first Class Template and whatever items and tags are attached.*
 
-4. Roll for your background **Profession**. *Gain whatever tags and items are attached.* [Professions](https://coinsandscrolls.blogspot.com/2017/06/osr-1d100-actually-medieval-professions.html?m=1).
+4. Roll for your background **Profession**. *Gain whatever tags and items are attached.* 
 
 5. You may also roll for a race, as explained [here](https://coinsandscrolls.blogspot.com/2017/03/osr-table-of-races.html). Otherwise, you're human.
 
