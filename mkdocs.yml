@@ -1,4 +1,4 @@
-site_name: Modular GLOG
+site_name: Modular OSR Rules
 theme: readthedocs
 extra_css: [extra.css]
 
@@ -14,68 +14,68 @@ markdown_extensions:
 
 pages:
       - Introduction: index.md
-      - Adventuring: Adventuring.md
-      - Checks: Checks.md
-      - Class Caster Blue: Class_Caster_Blue.md
-      - Class Caster Bug Collector: Class_Caster_Bug_Collector.md
-      - Class Caster Humble Art: Class_Caster_Humble_Art.md
-      - Class Caster Summoner: Class_Caster_Summoner.md
-      - Class Exorcist General: Class_Exorcist_General.md 
-      - Class Exorcist Bell: Class_Exorcist_Bell.md 
-      - Class Exorcist Book: Class_Exorcist_Book.md 
-      - Class Exorcist Sword: Class_Exorcist_Sword.md
-      - Class Expert Engineer: Class_Expert_Engineer.md
-      - Class Expert Goliard: Class_Expert_Goliard.md
-      - Class Expert Monk or Nun: Class_Expert_Monk_or_Nun.md
-      - Class Expert Scoundrel: Class_Expert_Scoundrel.md 
-      - Class Expert Thief: Class_Expert_Thief.md
-      - Class Expert Professions: Class_Expert_Professions.md
-      - Class Martial Barbarian: Class_Martial_Barbarian.md
-      - Class Martial Fighter: Class_Martial_Fighter.md
-      - Class Martial Paladin of the Word: Class_Martial_Paladin_of_the_Word.md
-      - Class Racial Dwarf: Class_Racial_Dwarf.md
-      - Class Weird Possessing Weapon: Class_Weird_Possessing_Weapon.md
-      - Class Weird Really Good Dog: Class_Weird_Really_Good_Dog.md
-      - Class Wizard General: Class_Wizard_General.md
-      - Class Wizard Animist: Class_Wizard_Animist.md
-      - Class Wizard Biomancer: Class_Wizard_Biomancer.md 
-      - Class Wizard Door: Class_Wizard_Door.md
-      - Class Wizard Drowned: Class_Wizard_Drowned.md
-      - Class Wizard Elementalist: Class_Wizard_Elementalist.md 
-      - Class Wizard Elf: Class_Wizard_Elf.md 
-      - Class Wizard Garden: Class_Wizard_Garden.md 
-      - Class Wizard Necromancer: Class_Wizard_Necromancer.md
-      - Class Wizard Orthodox: Class_Wizard_Orthodox.md
-      - Class Wizard Spider: Class_Wizard_Spider.md 
-      - Class Wizard White Hand: Class_Wizard_White_Hand.md
-      - Combat: Combat.md
-      - Conversation: Conversation.md
+      - Adventuring *GLOG*: Adventuring.md
+      - Checks *OSR*: Checks.md
+      - Class Caster Blue *Glog*: Class_Caster_Blue.md
+      - Class Caster Bug Collector *Glog*: Class_Caster_Bug_Collector.md
+      - Class Caster Humble Art *Glog*: Class_Caster_Humble_Art.md
+      - Class Caster Summoner *Glog*: Class_Caster_Summoner.md
+      - Class Exorcist General *Glog*: Class_Exorcist_General.md 
+      - Class Exorcist Bell *Glog*: Class_Exorcist_Bell.md 
+      - Class Exorcist Book *Glog*: Class_Exorcist_Book.md 
+      - Class Exorcist Sword *Glog*: Class_Exorcist_Sword.md
+      - Class Expert Engineer *Glog*: Class_Expert_Engineer.md
+      - Class Expert Goliard *Glog*: Class_Expert_Goliard.md
+      - Class Expert Monk or Nun *Glog*: Class_Expert_Monk_or_Nun.md
+      - Class Expert Scoundrel *Glog*: Class_Expert_Scoundrel.md 
+      - Class Expert Thief *Glog*: Class_Expert_Thief.md
+      - Class Expert Professions *Glog*: Class_Expert_Professions.md
+      - Class Martial Barbarian *Glog*: Class_Martial_Barbarian.md
+      - Class Martial Fighter *Glog*: Class_Martial_Fighter.md
+      - Class Martial Paladin of the Word *Glog*: Class_Martial_Paladin_of_the_Word.md
+      - Class Racial Dwarf *Glog*: Class_Racial_Dwarf.md
+      - Class Weird Possessing Weapon *Glog*: Class_Weird_Possessing_Weapon.md
+      - Class Weird Really Good Dog *Glog*: Class_Weird_Really_Good_Dog.md
+      - Class Wizard General *Glog*: Class_Wizard_General.md
+      - Class Wizard Animist *Glog*: Class_Wizard_Animist.md
+      - Class Wizard Biomancer *Glog*: Class_Wizard_Biomancer.md 
+      - Class Wizard Door *Glog*: Class_Wizard_Door.md
+      - Class Wizard Drowned *Glog*: Class_Wizard_Drowned.md
+      - Class Wizard Elementalist *Glog*: Class_Wizard_Elementalist.md 
+      - Class Wizard Elf *Glog*: Class_Wizard_Elf.md 
+      - Class Wizard Garden *Glog*: Class_Wizard_Garden.md 
+      - Class Wizard Necromancer *Glog*: Class_Wizard_Necromancer.md
+      - Class Wizard Orthodox *Glog*: Class_Wizard_Orthodox.md
+      - Class Wizard Spider *Glog*: Class_Wizard_Spider.md 
+      - Class Wizard White Hand *Glog*: Class_Wizard_White_Hand.md
+      - Combat *Glog*: Combat.md
+      - Conversation *OSR*: Conversation.md
       - Curses: Curses.md
-      - Death and Dismemberment: Death_Dismemberment.md
-      - Exploding Damage Die: Exploding_Damage_Die.md
-      - GM Advice: GM_advice.md
-      - Haggling: haggling.md
-      - Inventory Cards: Inventory_Cards.md
-      - Light Source, Checks: Light_Source_Checks.md
-      - Light Source, Traditional: Light_Source_Traditional.md
-      - Magic: Magic.md
-      - Market: Market.md
-      - Movement: Movement.md
-      - Mutation: Mutation.md
-      - Overland Actions: Overland_Actions.md
-      - Overland Basics: Overland_Basics.md
-      - Overland Encounters, by Terrain: Overland_Encounters_by_Terrain.md
-      - Overland Encounters, Simple: Overland_Encounters_Simple.md
-      - Overland Travel: Overland_Travel.md
-      - Overland Travel, Traditional: Overland_Travel_Traditional.md
-      - Player Advice: Player_Advice.md
-      - Player Rules/Character Generation: Player_Rules_Character_Generation.md
-      - Play Procedure: Play_Procedure.md
-      - Professions: Professions.md
-      - Random Starting Items: Random_Starting_Items.md
-      - Saving Throw, Charisma + Level: Saving_Throw_Charisma+Level.md
-      - Saving Throw, Half Stat: Saving_Throw_Half_Stat.md
-      - Saving Throw, Half Stat -- Improving: Saving_Throw_Half_Stat_Improving.md
-      - Skills: Skills.md
-      - Solo Player Character: SoloPC.md
+      - Death and Dismemberment *OSR*: Death_Dismemberment.md
+      - Exploding Damage Die *OSR*: Exploding_Damage_Die.md
+      - GM Advice *OSR*: GM_advice.md
+      - Haggling *OSR*: haggling.md
+      - Inventory Cards *OSR*: Inventory_Cards.md
+      - Light Source, Checks *OSR*: Light_Source_Checks.md
+      - Light Source, Traditional *OSR*: Light_Source_Traditional.md
+      - Magic *Glog*: Magic.md
+      - Market, Michael Bacon *OSR*: Market.md
+      - Movement *Glog*: Movement.md
+      - Mutation *OSR*: Mutation.md
+      - Overland Actions *OSR*: Overland_Actions.md
+      - Overland Basics *OSR*: Overland_Basics.md
+      - Overland Encounters, by Terrain *OSR*: Overland_Encounters_by_Terrain.md
+      - Overland Encounters, Simple *OSR*: Overland_Encounters_Simple.md
+      - Overland Travel *GLOG*: Overland_Travel.md
+      - Overland Travel, Traditional *GLOG*: Overland_Travel_Traditional.md
+      - Player Advice  *OSR*: Player_Advice.md
+      - Player Rules/Character Generation *GLOG*: Player_Rules_Character_Generation.md
+      - Play Procedure *OSR*: Play_Procedure.md
+      - Professions *OSR*: Professions.md
+      - Random Starting Items *Glog*: Random_Starting_Items.md
+      - Saving Throw, Charisma + Level *OSR*: Saving_Throw_Charisma+Level.md
+      - Saving Throw, Half Stat *OSR*: Saving_Throw_Half_Stat.md
+      - Saving Throw, Half Stat -- Improving *OSR*: Saving_Throw_Half_Stat_Improving.md
+      - Skills *OSR*: Skills.md
+      - Solo Player Character *OSR*: SoloPC.md
       - License: zGame_License.md

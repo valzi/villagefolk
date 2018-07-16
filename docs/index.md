@@ -18,7 +18,7 @@ Full length explanation.
 
 Examples and advice.
 
-# Class Templates
+# GLOG Class Templates
 
 [Class Template](https://www.dropbox.com/s/aebvu5dl82630ef/Template_Class.md?dl=1).
 
@@ -27,6 +27,7 @@ Examples and advice.
 # Mission Statement
 
 * A rules document that focuses on quick and easy reference, especially for experienced players.
+*  Each section of the document should be broadly compatible so that it might be added to an OSR ruleset as seamlessly as possible.
 
 # To-do
 
@@ -40,12 +41,3 @@ Examples and advice.
 
 * The advice sections are almost entirely stolen without credit from random places. I think it's great advice, but I need to replace it with something that is credited. They were originally meant just for me and for my players.
 
-  
-
-# GLOG versions
-
-[Original GLOG](http://goblinpunch.blogspot.ca/2016/05/the-glog.html) by Arnold K.
-
-[Rat-on-a-Stick](https://coinsandscrolls.blogspot.ca/2018/01/osr-glog-based-homebrew-v01-rat-on.html) (GLOG hack) by Skerples.
-
-[Valiant](https://drive.google.com/open?id=1aX9tJguzXvbxU4cwv1S_f9fZBaSQKeo9) (GLOG hack) by Lungfungus.
