@@ -128,4 +128,4 @@ Save negates. Save once per mutation. Target gains [dice] random mutations. If t
 
 # Credit
 
-By Skerples. https://coinsandscrolls.blogspot.com/2018/01/osr-class-biomancer.html
+By Skerples. [https://coinsandscrolls.blogspot.com/2018/01/osr-class-biomancer.html](https://coinsandscrolls.blogspot.com/2018/01/osr-class-biomancer.html)
