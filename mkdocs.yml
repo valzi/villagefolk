@@ -1,8 +1,8 @@
-site_name: Modular OSR Rules
+site_name: Modular OSR Library
 theme: readthedocs
 extra_css: [extra.css]
 
-site_description: A Modular OSR Rulebook. Take what you want.
+site_description: Modular OSR Library. Take what you want.
 site_author: Michael Bacon and Everyone Else
 include_sidebar: true
 
@@ -14,68 +14,3 @@ markdown_extensions:
 
 pages:
       - Introduction: index.md
-      - Adventuring *GLOG*: Adventuring.md
-      - Roll-Under Checks *OSR*: Checks.md
-      - Class Caster Blue *Glog*: Class_Caster_Blue.md
-      - Class Caster Bug Collector *Glog*: Class_Caster_Bug_Collector.md
-      - Class Caster Humble Art *Glog*: Class_Caster_Humble_Art.md
-      - Class Caster Summoner *Glog*: Class_Caster_Summoner.md
-      - Class Exorcist General *Glog*: Class_Exorcist_General.md 
-      - Class Exorcist Bell *Glog*: Class_Exorcist_Bell.md 
-      - Class Exorcist Book *Glog*: Class_Exorcist_Book.md 
-      - Class Exorcist Sword *Glog*: Class_Exorcist_Sword.md
-      - Class Expert Engineer *Glog*: Class_Expert_Engineer.md
-      - Class Expert Goliard *Glog*: Class_Expert_Goliard.md
-      - Class Expert Monk or Nun *Glog*: Class_Expert_Monk_or_Nun.md
-      - Class Expert Scoundrel *Glog*: Class_Expert_Scoundrel.md 
-      - Class Expert Thief *Glog*: Class_Expert_Thief.md
-      - Class Expert Professions *Glog*: Class_Expert_Professions.md
-      - Class Martial Barbarian *Glog*: Class_Martial_Barbarian.md
-      - Class Martial Fighter *Glog*: Class_Martial_Fighter.md
-      - Class Martial Paladin of the Word *Glog*: Class_Martial_Paladin_of_the_Word.md
-      - Class Racial Dwarf *Glog*: Class_Racial_Dwarf.md
-      - Class Weird Possessing Weapon *Glog*: Class_Weird_Possessing_Weapon.md
-      - Class Weird Really Good Dog *Glog*: Class_Weird_Really_Good_Dog.md
-      - Class Wizard General *Glog*: Class_Wizard_General.md
-      - Class Wizard Animist *Glog*: Class_Wizard_Animist.md
-      - Class Wizard Biomancer *Glog*: Class_Wizard_Biomancer.md 
-      - Class Wizard Door *Glog*: Class_Wizard_Door.md
-      - Class Wizard Drowned *Glog*: Class_Wizard_Drowned.md
-      - Class Wizard Elementalist *Glog*: Class_Wizard_Elementalist.md 
-      - Class Wizard Elf *Glog*: Class_Wizard_Elf.md 
-      - Class Wizard Garden *Glog*: Class_Wizard_Garden.md 
-      - Class Wizard Necromancer *Glog*: Class_Wizard_Necromancer.md
-      - Class Wizard Orthodox *Glog*: Class_Wizard_Orthodox.md
-      - Class Wizard Spider *Glog*: Class_Wizard_Spider.md 
-      - Class Wizard White Hand *Glog*: Class_Wizard_White_Hand.md
-      - Combat *Glog*: Combat.md
-      - Conversation *OSR*: Conversation.md
-      - Curses: Curses.md
-      - Death and Dismemberment *OSR*: Death_Dismemberment.md
-      - Exploding Damage Die *OSR*: Exploding_Damage_Die.md
-      - GM Advice *OSR*: GM_advice.md
-      - Haggling *OSR*: haggling.md
-      - Inventory Cards *OSR*: Inventory_Cards.md
-      - Light Source, Checks *OSR*: Light_Source_Checks.md
-      - Light Source, Traditional *OSR*: Light_Source_Traditional.md
-      - GLOGian Magic *OSR*: Magic.md
-      - Market, Michael Bacon *OSR*: Market.md
-      - GLOGian Movement *OSR*: Movement.md
-      - Mutation *OSR*: Mutation.md
-      - Overland Actions *OSR*: Overland_Actions.md
-      - Overland Basics *OSR*: Overland_Basics.md
-      - Overland Encounters, by Terrain *OSR*: Overland_Encounters_by_Terrain.md
-      - Overland Encounters, Simple *OSR*: Overland_Encounters_Simple.md
-      - Overland Travel *GLOG*: Overland_Travel.md
-      - Overland Travel, Traditional *GLOG*: Overland_Travel_Traditional.md
-      - Player Advice  *OSR*: Player_Advice.md
-      - Player Rules/Character Generation *GLOG*: Player_Rules_Character_Generation.md
-      - Play Procedure *OSR*: Play_Procedure.md
-      - Professions *OSR*: Professions.md
-      - Random Starting Items *Glog*: Random_Starting_Items.md
-      - Saving Throw, Charisma + Level *OSR*: Saving_Throw_Charisma+Level.md
-      - Saving Throw, Half Stat *OSR*: Saving_Throw_Half_Stat.md
-      - Saving Throw, Half Stat -- Improving *OSR*: Saving_Throw_Half_Stat_Improving.md
-      - Skills *OSR*: Skills.md
-      - Solo Player Character *OSR*: SoloPC.md
-      - License: zGame_License.md
