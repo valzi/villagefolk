@@ -1,3 +1,0 @@
-
-# Curses
-Nothing here yet!
