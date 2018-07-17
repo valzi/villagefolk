@@ -15,7 +15,7 @@ markdown_extensions:
 pages:
       - Introduction: index.md
       - Adventuring *GLOG*: Adventuring.md
-      - Checks *OSR*: Checks.md
+      - Roll-Under Checks *OSR*: Checks.md
       - Class Caster Blue *Glog*: Class_Caster_Blue.md
       - Class Caster Bug Collector *Glog*: Class_Caster_Bug_Collector.md
       - Class Caster Humble Art *Glog*: Class_Caster_Humble_Art.md
@@ -58,9 +58,9 @@ pages:
       - Inventory Cards *OSR*: Inventory_Cards.md
       - Light Source, Checks *OSR*: Light_Source_Checks.md
       - Light Source, Traditional *OSR*: Light_Source_Traditional.md
-      - Magic *Glog*: Magic.md
+      - GLOGian Magic *OSR*: Magic.md
       - Market, Michael Bacon *OSR*: Market.md
-      - Movement *Glog*: Movement.md
+      - GLOGian Movement *OSR*: Movement.md
       - Mutation *OSR*: Mutation.md
       - Overland Actions *OSR*: Overland_Actions.md
       - Overland Basics *OSR*: Overland_Basics.md
