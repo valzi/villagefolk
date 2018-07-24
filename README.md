@@ -1,3 +1,2 @@
-# Village Folk
+# OSR rules wiki
 
-Rules and other documentation for my OSR RPG project.
